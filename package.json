@@ -1,0 +1,26 @@
+{
+  "name": "full-stack-zero",
+  "version": "1.0.0",
+  "description": "kakarot",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhbinh-debug/backend-zero.git"
+  },
+  "keywords": [
+    "backend-nodejs"
+  ],
+  "author": "kakarot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhbinh-debug/backend-zero/issues"
+  },
+  "homepage": "https://github.com/thanhbinh-debug/backend-zero#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
